@@ -1,0 +1,6 @@
+cat /etc/os-release > explore_system.txt
+ps aux
+systemctl list-units --type=service
+To define free space in a filesystem, use: df -h
+To find the size of the /root folder, use: du -sh /root
+which vi

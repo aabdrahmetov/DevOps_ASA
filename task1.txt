@@ -1,0 +1,4 @@
+The `less` command allows users to search for text in a file.
+
+The `-F` flag in the `ls` command appends a character to the end of each listed name to indicate the type of file. For example, a `/` is added for directories, a `*` for executable files, and an `@` for symbolic links.
+man 5 passwd > passwd_output.txt

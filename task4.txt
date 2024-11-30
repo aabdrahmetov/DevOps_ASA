@@ -1,0 +1,8 @@
+Results of create_first_bash_output.sh:
+Sat Nov 30 09:23:04 PM UTC 2024
+/home/aiba/linux_practice
+Results of counter.sh for /tmp:
+Directories: 13 Files: 1
+Results of counter.sh for /var/log:
+Directories: 13 Files: 55
+Directories: 13 Files: 55
